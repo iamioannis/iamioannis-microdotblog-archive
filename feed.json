@@ -1,11 +1,65 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "iamioannis",
-	"icon": "https://www.gravatar.com/avatar/cb16b8bd23cf637b47ce2e370782f58b?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+	"icon": "https://micro.blog/iamioannis/avatar.jpg",
 	"home_page_url": "https://iamioannis.micro.blog/",
 	"feed_url": "https://iamioannis.micro.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://iamioannis.micro.blog/2026/01/06/175250.html",
+				
+				"content_html": "<p>🍿 Tampopo, 1985 - ★★★★</p>\n<p>A beautiful film.</p>\n<p>🔗 <a href=\"https://letterboxd.com/iamioannis/film/tampopo/\">letterboxd.com/iamioanni&hellip;</a></p>\n",
+				"content_text": "🍿 Tampopo, 1985 - ★★★★ \r\n\r\nA beautiful film.\r\n\r\n🔗 [letterboxd.com/iamioanni...](https://letterboxd.com/iamioannis/film/tampopo/)\n",
+				"date_published": "2026-01-06T17:52:50+02:00",
+				"url": "https://iamioannis.micro.blog/2026/01/06/175250.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://iamioannis.micro.blog/2026/01/01/first-listen-of-the-year.html",
+				
+				"content_html": "<p>First listen of the year</p>\n<p>🎵 <a href=\"https://cudighirecords.bandcamp.com/album/country-gazette\">World standard - Country Gaezette\n</a></p>\n",
+				"content_text": "First listen of the year\n\n🎵 [World standard - Country Gaezette\n](https://cudighirecords.bandcamp.com/album/country-gazette)\n",
+				"date_published": "2026-01-01T13:50:33+02:00",
+				"url": "https://iamioannis.micro.blog/2026/01/01/first-listen-of-the-year.html",
+				"tags": ["Notes","Music"]
+			},
+			{
+				"id": "http://iamioannis.micro.blog/2025/12/29/i-should-not-eat-more.html",
+				
+				"content_html": "<p>I should not eat more sweats, I should not eat more sweats, I should not eat more sweats, I should not eat more sweats.</p>\n<p>It was nice to have a couple of sweets for a bunch of days during the holidays, but I think my system is falling apart with all the sugar.</p>\n",
+				"content_text": "I should not eat more sweats, I should not eat more sweats, I should not eat more sweats, I should not eat more sweats. \n\nIt was nice to have a couple of sweets for a bunch of days during the holidays, but I think my system is falling apart with all the sugar.\n",
+				"date_published": "2025-12-29T19:41:09+02:00",
+				"url": "https://iamioannis.micro.blog/2025/12/29/i-should-not-eat-more.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://iamioannis.micro.blog/2025/12/26/broken-vein-very-realistic-i.html",
+				
+				"content_html": "<p>🍿 Broken Vein, 2025 - ★★★½</p>\n<p>Very realistic. I mean, a bit too realistic. I have seen people go through similar situations, react the same way (not to that extend but close enough). A great portrait of what being in deep dept in Greece feels like. Felt really anxious watching this film and i attribute that to the movie’s great direction as my psyche was immersed.\nI can’t finish the review by not mentioning two things:\nOne, this is a classic Oikonomidis movie. The curse rate is through the roof so be prepared.\nTwo, there were some times in the film that were a bit stereotypical and some others that could be left out. I don’t think the director did wrong leaving them in but there was a lot of opportunity to do more to elevate the film (by cutting scenes). I don’t think they were a missed opportunity but rather the movie had me “directing” on top of it which makes the movie fascinating.</p>\n<p>🔗 <a href=\"https://letterboxd.com/iamioannis/film/broken-vein/\">letterboxd.com/iamioanni&hellip;</a></p>\n",
+				"content_text": "🍿 Broken Vein, 2025 - ★★★½ \r\n\r\nVery realistic. I mean, a bit too realistic. I have seen people go through similar situations, react the same way (not to that extend but close enough). A great portrait of what being in deep dept in Greece feels like. Felt really anxious watching this film and i attribute that to the movie’s great direction as my psyche was immersed.\nI can’t finish the review by not mentioning two things:\nOne, this is a classic Oikonomidis movie. The curse rate is through the roof so be prepared.\nTwo, there were some times in the film that were a bit stereotypical and some others that could be left out. I don’t think the director did wrong leaving them in but there was a lot of opportunity to do more to elevate the film (by cutting scenes). I don’t think they were a missed opportunity but rather the movie had me “directing” on top of it which makes the movie fascinating.\r\n\r\n🔗 [letterboxd.com/iamioanni...](https://letterboxd.com/iamioannis/film/broken-vein/)\n",
+				"date_published": "2025-12-26T16:51:55+02:00",
+				"url": "https://iamioannis.micro.blog/2025/12/26/broken-vein-very-realistic-i.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://iamioannis.micro.blog/2025/12/15/the-discreet-charm-of-the.html",
+				
+				"content_html": "<p>🍿 The Discreet Charm of the Bourgeoisie, 1972 - ★★</p>\n<p>A bit fun. Not white amount. Supposedly dark comedy but wasn’t really funny tbh and I love dark comedy’s. Not a bad watch though.</p>\n<p>🔗 <a href=\"https://letterboxd.com/iamioannis/film/the-discreet-charm-of-the-bourgeoisie/\">letterboxd.com/iamioanni&hellip;</a></p>\n",
+				"content_text": "🍿 The Discreet Charm of the Bourgeoisie, 1972 - ★★ \r\n\r\nA bit fun. Not white amount. Supposedly dark comedy but wasn’t really funny tbh and I love dark comedy’s. Not a bad watch though.\r\n\r\n🔗 [letterboxd.com/iamioanni...](https://letterboxd.com/iamioannis/film/the-discreet-charm-of-the-bourgeoisie/)\n",
+				"date_published": "2025-12-15T22:55:54+02:00",
+				"url": "https://iamioannis.micro.blog/2025/12/15/the-discreet-charm-of-the.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://iamioannis.micro.blog/2025/11/30/drizlefm-w-plo-man-by.html",
+				
+				"content_html": "<p>🎵 <a href=\"https://soundcloud.com/user-202286394-991268468/drizle-fm-w-plo-man-161025\">drizle.FM w/ PLO MAN 161025 by NTS Latest</a></p>\n",
+				"content_text": "🎵 [drizle.FM w/ PLO MAN 161025 by NTS Latest](https://soundcloud.com/user-202286394-991268468/drizle-fm-w-plo-man-161025)\n",
+				"date_published": "2025-11-30T17:34:33+02:00",
+				"url": "https://iamioannis.micro.blog/2025/11/30/drizlefm-w-plo-man-by.html",
+				"tags": ["Notes","Music"]
+			},
 			{
 				"id": "http://iamioannis.micro.blog/2025/11/21/kokuho-this-movie-is-a.html",
 				
@@ -18,11 +72,11 @@
 			{
 				"id": "http://iamioannis.micro.blog/2025/11/09/the-souvenir-cassette-and-further.html",
 				
-				"content_html": "<p>🎧 <a href=\"https://haco-sound.bandcamp.com/album/the-souvenir-cassette-and-further-live-adventures\">The Souvenir Cassette and Further Live Adventures</a>, by After Dinner haco-sound.bandcamp.com</p>\n",
-				"content_text": "🎧 [The Souvenir Cassette and Further Live Adventures](https://haco-sound.bandcamp.com/album/the-souvenir-cassette-and-further-live-adventures), by After Dinner haco-sound.bandcamp.com\n\n\n",
+				"content_html": "<p>🎵 <a href=\"https://haco-sound.bandcamp.com/album/the-souvenir-cassette-and-further-live-adventures\">The Souvenir Cassette and Further Live Adventures</a>, by After Dinner haco-sound.bandcamp.com</p>\n",
+				"content_text": "🎵 [The Souvenir Cassette and Further Live Adventures](https://haco-sound.bandcamp.com/album/the-souvenir-cassette-and-further-live-adventures), by After Dinner haco-sound.bandcamp.com\n\n\n",
 				"date_published": "2025-11-09T14:25:11+02:00",
 				"url": "https://iamioannis.micro.blog/2025/11/09/the-souvenir-cassette-and-further.html",
-				"tags": ["Notes"]
+				"tags": ["Notes","Music"]
 			},
 			{
 				"id": "http://iamioannis.micro.blog/2025/11/04/silent-friend-really-wholesome-really.html",
@@ -121,7 +175,7 @@
 				"content_text": "Since CD's are making a comeback here is a 2h long Late 90's Japanese Ambient Techno and Electronica Mix by NTS Radio.\nReally good selection\n\n🎵 [🔗 Late '90s / Early '00s Japanese Ambient Techno and Electronica Mix【 THE NTS GUIDE TO… 】\n](https://on.soundcloud.com/S1X15IJvSiXwAJ2fx8)\n",
 				"date_published": "2025-07-29T17:23:57+02:00",
 				"url": "https://iamioannis.micro.blog/2025/07/29/since-cds-are-making-a.html",
-				"tags": ["Notes"]
+				"tags": ["Notes","Music"]
 			}
 	]
 }
